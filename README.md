@@ -1,3 +1,4 @@
 # ATZ-Ecommerce-Store-Frontend
 ## DEMO URL
-https://desphixs.github.io/AE-Ecommerce-Store-Frontend/
+git clone https://github.com/Heistheone1/EA-commerce.git
+
